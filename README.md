@@ -5,3 +5,4 @@ TPs de formation OC
 
 Fichiers ajoutés :
 * index.php
+* style.css
